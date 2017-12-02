@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\claudiney nascimento\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "projectUniqueName": "C:\\Users\\Claudiney Nascimento\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo.csproj",
       "projectName": "CasaDoCodigo",
-      "projectPath": "c:\\users\\claudiney nascimento\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "projectPath": "C:\\Users\\Claudiney Nascimento\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo.csproj",
       "packagesPath": "C:\\Users\\Claudiney Nascimento\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\claudiney nascimento\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\obj\\",
+      "outputPath": "C:\\Users\\Claudiney Nascimento\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
