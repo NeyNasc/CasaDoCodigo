@@ -38,12 +38,18 @@
 .left.carousel-control,
 .right.carousel-control {
     background-image: none;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .navbar-brand{
     background:url('../images/produtos/logo.png');
     width:215px;
     height:55px;
+}
+
+.left.carousel-control {
+
 }
 
 .navbar-inverse {
